@@ -37,7 +37,30 @@ The primary objective is:
 5. clean mathematical typography
 6. visual fidelity
 
----
+## Supporting files
+
+Before performing a translation task, read and follow these files when present:
+
+- `references/translation-rules.md`
+- `references/math-layout-rules.md`
+- `references/qa-checklist.md`
+
+For bounded Session, chapter, section, article, introduction, appendix, or other named-unit translation tasks, also use:
+
+- `templates/session-task.md`
+
+These files extend the rules defined in this `SKILL.md`.
+
+Project-specific files such as:
+
+- `project.md`
+- `glossary.json`
+- `translation_style.md`
+- `progress.json`
+
+take precedence where applicable.
+
+Explicit user instructions take precedence over project defaults and this skill.
 
 # 1. Respect the current project
 
